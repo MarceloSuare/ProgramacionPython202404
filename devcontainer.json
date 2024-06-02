@@ -1,0 +1,6 @@
+{
+  "name": "Mi entorno de PostgreSQL",
+  "dockerFile": "Dockerfile",
+  "forwardPorts": [5432],
+  "postCreateCommand": "echo 'PostgreSQL está listo!'"
+}
