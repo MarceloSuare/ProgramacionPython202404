@@ -4,3 +4,5 @@ Extras/
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 */.ipynb_checkpoints
+*.sh
+token.txt
